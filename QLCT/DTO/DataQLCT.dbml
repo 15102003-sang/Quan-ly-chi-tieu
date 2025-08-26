@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="QLCT" Class="DataQLCTDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=LAPTOP-BUISANG\SANG;Initial Catalog=QLCT;Integrated Security=True" SettingsObjectName="DTO.Properties.Settings" SettingsPropertyName="QLCTConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.DuDinh" Member="DuDinhs">
+    <Type Name="DuDinh">
+      <Column Name="MaDuDinh" Type="System.String" DbType="VarChar(10) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="MaNguoiDung" Type="System.String" DbType="VarChar(10)" CanBeNull="true" />
+      <Column Name="TenDuDinh" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="TienDuDinh" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="ThoiGianDuDinh" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Association Name="DuDinh_GiaoDichDuDinh" Member="GiaoDichDuDinhs" ThisKey="MaDuDinh" OtherKey="MaDuDinh" Type="GiaoDichDuDinh" />
+      <Association Name="NguoiDung_DuDinh" Member="NguoiDung" ThisKey="MaNguoiDung" OtherKey="MaNguoiDung" Type="NguoiDung" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.GiaoDichDuDinh" Member="GiaoDichDuDinhs">
+    <Type Name="GiaoDichDuDinh">
+      <Column Name="MaGiaoDichDuDinh" Type="System.String" DbType="VarChar(10) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="MaDuDinh" Type="System.String" DbType="VarChar(10)" CanBeNull="true" />
+      <Column Name="MaSanPham" Type="System.String" DbType="VarChar(10)" CanBeNull="true" />
+      <Column Name="SoLuong" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Gia" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="DuDinh_GiaoDichDuDinh" Member="DuDinh" ThisKey="MaDuDinh" OtherKey="MaDuDinh" Type="DuDinh" IsForeignKey="true" />
+      <Association Name="SanPham_GiaoDichDuDinh" Member="SanPham" ThisKey="MaSanPham" OtherKey="MaSanPham" Type="SanPham" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.NguoiDung" Member="NguoiDungs">
+    <Type Name="NguoiDung">
+      <Column Name="MaNguoiDung" Type="System.String" DbType="VarChar(10) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="TenDangNhap" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="MatKhau" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="HoTen" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="Tuoi" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="NguoiDung_DuDinh" Member="DuDinhs" ThisKey="MaNguoiDung" OtherKey="MaNguoiDung" Type="DuDinh" />
+    </Type>
+  </Table>
+  <Table Name="dbo.SanPham" Member="SanPhams">
+    <Type Name="SanPham">
+      <Column Name="MaSanPham" Type="System.String" DbType="VarChar(10) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="TenSanPham" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
+      <Association Name="SanPham_GiaoDichDuDinh" Member="GiaoDichDuDinhs" ThisKey="MaSanPham" OtherKey="MaSanPham" Type="GiaoDichDuDinh" />
+    </Type>
+  </Table>
+</Database>

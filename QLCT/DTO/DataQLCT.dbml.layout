@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="DataQLCT">
+  <DataContextMoniker Name="/DataQLCTDataContext" />
+  <nestedChildShapes>
+    <classShape Id="deb95edb-f294-4917-a6ba-bef615b21ee3" absoluteBounds="4.25, 0.625, 2, 1.8909733395775157">
+      <DataClassMoniker Name="/DataQLCTDataContext/DuDinh" />
+      <nestedChildShapes>
+        <elementListCompartment Id="0a1c5ea4-6f18-4dd0-bf1a-708980b2f24a" absoluteBounds="4.265, 1.085, 1.9700000000000002, 1.3309733395775158" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="deb207d0-6722-4266-92f9-e602be57a478" absoluteBounds="4, 3.75, 2, 1.8909733395775157">
+      <DataClassMoniker Name="/DataQLCTDataContext/GiaoDichDuDinh" />
+      <nestedChildShapes>
+        <elementListCompartment Id="fc240f77-bcab-457f-83f2-a39bce1780f1" absoluteBounds="4.0150000000000006, 4.21, 1.9700000000000002, 1.3309733395775158" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(5.125 : 2.51597333957752); (5.125 : 3.75)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DataQLCTDataContext/DuDinh/DuDinh_GiaoDichDuDinh" />
+      <nodes>
+        <classShapeMoniker Id="deb95edb-f294-4917-a6ba-bef615b21ee3" />
+        <classShapeMoniker Id="deb207d0-6722-4266-92f9-e602be57a478" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="008913f3-9b9d-4907-adba-aa274e174e50" absoluteBounds="0.625, 0.5, 2, 1.8909733395775157">
+      <DataClassMoniker Name="/DataQLCTDataContext/NguoiDung" />
+      <nestedChildShapes>
+        <elementListCompartment Id="eb99e2cf-afac-4762-ad66-fc334293d720" absoluteBounds="0.63999999999999968, 0.96, 1.9700000000000002, 1.3309733395775158" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(2.625 : 1.28125); (4.25 : 1.28125)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DataQLCTDataContext/NguoiDung/NguoiDung_DuDinh" />
+      <nodes>
+        <classShapeMoniker Id="008913f3-9b9d-4907-adba-aa274e174e50" />
+        <classShapeMoniker Id="deb95edb-f294-4917-a6ba-bef615b21ee3" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="98ca1303-2ba4-40b8-904b-f0739c0ea856" absoluteBounds="0.5, 4.125, 2, 1.2586491059263547">
+      <DataClassMoniker Name="/DataQLCTDataContext/SanPham" />
+      <nestedChildShapes>
+        <elementListCompartment Id="59338276-b12c-4bcf-9bdc-b3de9f219c14" absoluteBounds="0.51499999999999968, 4.585, 1.9700000000000002, 0.69864910592635465" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(2.5 : 4.75432455296318); (4 : 4.75432455296318)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DataQLCTDataContext/SanPham/SanPham_GiaoDichDuDinh" />
+      <nodes>
+        <classShapeMoniker Id="98ca1303-2ba4-40b8-904b-f0739c0ea856" />
+        <classShapeMoniker Id="deb207d0-6722-4266-92f9-e602be57a478" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

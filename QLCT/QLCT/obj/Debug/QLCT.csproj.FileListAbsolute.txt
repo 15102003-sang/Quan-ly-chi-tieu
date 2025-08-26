@@ -1,0 +1,54 @@
+D:\Learning\des\Final_exam\QLCT\QLCT\bin\Debug\QLCT.exe.config
+D:\Learning\des\Final_exam\QLCT\QLCT\bin\Debug\QLCT.exe
+D:\Learning\des\Final_exam\QLCT\QLCT\bin\Debug\QLCT.pdb
+D:\Learning\des\Final_exam\QLCT\QLCT\bin\Debug\BUS.dll
+D:\Learning\des\Final_exam\QLCT\QLCT\bin\Debug\DTO.dll
+D:\Learning\des\Final_exam\QLCT\QLCT\bin\Debug\BUS.pdb
+D:\Learning\des\Final_exam\QLCT\QLCT\bin\Debug\DTO.pdb
+D:\Learning\des\Final_exam\QLCT\QLCT\bin\Debug\DTO.dll.config
+D:\Learning\des\Final_exam\QLCT\QLCT\obj\Debug\QLCT.csproj.AssemblyReference.cache
+D:\Learning\des\Final_exam\QLCT\QLCT\obj\Debug\QLCT.csproj.SuggestedBindingRedirects.cache
+D:\Learning\des\Final_exam\QLCT\QLCT\obj\Debug\QLCT.FormDangNhap.resources
+D:\Learning\des\Final_exam\QLCT\QLCT\obj\Debug\QLCT.Properties.Resources.resources
+D:\Learning\des\Final_exam\QLCT\QLCT\obj\Debug\QLCT.csproj.GenerateResource.cache
+D:\Learning\des\Final_exam\QLCT\QLCT\obj\Debug\QLCT.csproj.CoreCompileInputs.cache
+D:\Learning\des\Final_exam\QLCT\QLCT\obj\Debug\QLCT.csproj.CopyComplete
+D:\Learning\des\Final_exam\QLCT\QLCT\obj\Debug\QLCT.exe
+D:\Learning\des\Final_exam\QLCT\QLCT\obj\Debug\QLCT.pdb
+D:\Learning\des\Final_exam\QLCT\QLCT\obj\Debug\QLCT.GioiThieu.resources
+D:\Learning\des\Final_exam\QLCT\QLCT\obj\Debug\QLCT.FormDangKi.resources
+D:\Learning\des\Final_exam\QLCT\QLCT\obj\Debug\QLCT.QLCT.resources
+D:\Learning\des\Final_exam\QLCT\QLCT\bin\Debug\DAO.dll
+D:\Learning\des\Final_exam\QLCT\QLCT\bin\Debug\DAO.pdb
+D:\1.Learning\Nam2_HK2\des\Final_exam\QLCT\QLCT\obj\Debug\QLCT.csproj.AssemblyReference.cache
+D:\1.Learning\Nam2_HK2\des\Final_exam\QLCT\QLCT\obj\Debug\QLCT.csproj.SuggestedBindingRedirects.cache
+D:\1.Learning\Nam2_HK2\des\Final_exam\QLCT\QLCT\obj\Debug\QLCT.FormDangKi.resources
+D:\1.Learning\Nam2_HK2\des\Final_exam\QLCT\QLCT\obj\Debug\QLCT.FormDangNhap.resources
+D:\1.Learning\Nam2_HK2\des\Final_exam\QLCT\QLCT\obj\Debug\QLCT.GioiThieu.resources
+D:\1.Learning\Nam2_HK2\des\Final_exam\QLCT\QLCT\obj\Debug\QLCT.Properties.Resources.resources
+D:\1.Learning\Nam2_HK2\des\Final_exam\QLCT\QLCT\obj\Debug\QLCT.QLCT.resources
+D:\1.Learning\Nam2_HK2\des\Final_exam\QLCT\QLCT\obj\Debug\QLCT.csproj.GenerateResource.cache
+D:\1.Learning\Nam2_HK2\des\Final_exam\QLCT\QLCT\obj\Debug\QLCT.csproj.CoreCompileInputs.cache
+D:\1.Learning\Nam2_HK2\des\Final_exam\QLCT\QLCT\obj\Debug\QLCT.exe
+D:\1.Learning\Nam2_HK2\des\Final_exam\QLCT\QLCT\obj\Debug\QLCT.pdb
+D:\Chuyên ngành Hệ Thống Thông Tin\Desktop\QLCT\QLCT\obj\Debug\QLCT.csproj.AssemblyReference.cache
+D:\Chuyên ngành Hệ Thống Thông Tin\Desktop\QLCT\QLCT\obj\Debug\QLCT.FormDangKi.resources
+D:\Chuyên ngành Hệ Thống Thông Tin\Desktop\QLCT\QLCT\obj\Debug\QLCT.FormDangNhap.resources
+D:\Chuyên ngành Hệ Thống Thông Tin\Desktop\QLCT\QLCT\obj\Debug\QLCT.GioiThieu.resources
+D:\Chuyên ngành Hệ Thống Thông Tin\Desktop\QLCT\QLCT\obj\Debug\QLCT.Properties.Resources.resources
+D:\Chuyên ngành Hệ Thống Thông Tin\Desktop\QLCT\QLCT\obj\Debug\QLCT.QLCT.resources
+D:\Chuyên ngành Hệ Thống Thông Tin\Desktop\QLCT\QLCT\obj\Debug\QLCT.csproj.GenerateResource.cache
+D:\Chuyên ngành Hệ Thống Thông Tin\Desktop\QLCT\QLCT\obj\Debug\QLCT.csproj.CoreCompileInputs.cache
+D:\Chuyên ngành Hệ Thống Thông Tin\Desktop\QLCT\QLCT\obj\Debug\QLCT.pdb
+D:\Chuyên ngành Hệ Thống Thông Tin\Desktop\QLCT\QLCT\bin\Debug\QLCT.exe.config
+D:\Chuyên ngành Hệ Thống Thông Tin\Desktop\QLCT\QLCT\bin\Debug\QLCT.exe
+D:\Chuyên ngành Hệ Thống Thông Tin\Desktop\QLCT\QLCT\bin\Debug\QLCT.pdb
+D:\Chuyên ngành Hệ Thống Thông Tin\Desktop\QLCT\QLCT\bin\Debug\BUS.dll
+D:\Chuyên ngành Hệ Thống Thông Tin\Desktop\QLCT\QLCT\bin\Debug\DTO.dll
+D:\Chuyên ngành Hệ Thống Thông Tin\Desktop\QLCT\QLCT\bin\Debug\DAO.dll
+D:\Chuyên ngành Hệ Thống Thông Tin\Desktop\QLCT\QLCT\bin\Debug\BUS.pdb
+D:\Chuyên ngành Hệ Thống Thông Tin\Desktop\QLCT\QLCT\bin\Debug\DTO.pdb
+D:\Chuyên ngành Hệ Thống Thông Tin\Desktop\QLCT\QLCT\bin\Debug\DTO.dll.config
+D:\Chuyên ngành Hệ Thống Thông Tin\Desktop\QLCT\QLCT\bin\Debug\DAO.pdb
+D:\Chuyên ngành Hệ Thống Thông Tin\Desktop\QLCT\QLCT\obj\Debug\QLCT.csproj.Up2Date
+D:\Chuyên ngành Hệ Thống Thông Tin\Desktop\QLCT\QLCT\obj\Debug\QLCT.exe

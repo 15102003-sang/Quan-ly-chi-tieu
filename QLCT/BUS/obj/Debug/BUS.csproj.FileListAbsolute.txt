@@ -1,0 +1,24 @@
+D:\Learning\des\Final_exam\QLCT\BUS\bin\Debug\BUS.dll
+D:\Learning\des\Final_exam\QLCT\BUS\bin\Debug\BUS.pdb
+D:\Learning\des\Final_exam\QLCT\BUS\bin\Debug\DAO.dll
+D:\Learning\des\Final_exam\QLCT\BUS\bin\Debug\DTO.dll
+D:\Learning\des\Final_exam\QLCT\BUS\bin\Debug\DAO.pdb
+D:\Learning\des\Final_exam\QLCT\BUS\bin\Debug\DTO.pdb
+D:\Learning\des\Final_exam\QLCT\BUS\bin\Debug\DTO.dll.config
+D:\Learning\des\Final_exam\QLCT\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\Learning\des\Final_exam\QLCT\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\Learning\des\Final_exam\QLCT\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\Learning\des\Final_exam\QLCT\BUS\obj\Debug\BUS.dll
+D:\Learning\des\Final_exam\QLCT\BUS\obj\Debug\BUS.pdb
+D:\Chuyên ngành Hệ Thống Thông Tin\Desktop\QLCT\BUS\bin\Debug\BUS.dll
+D:\Chuyên ngành Hệ Thống Thông Tin\Desktop\QLCT\BUS\bin\Debug\BUS.pdb
+D:\Chuyên ngành Hệ Thống Thông Tin\Desktop\QLCT\BUS\bin\Debug\DAO.dll
+D:\Chuyên ngành Hệ Thống Thông Tin\Desktop\QLCT\BUS\bin\Debug\DTO.dll
+D:\Chuyên ngành Hệ Thống Thông Tin\Desktop\QLCT\BUS\bin\Debug\DAO.pdb
+D:\Chuyên ngành Hệ Thống Thông Tin\Desktop\QLCT\BUS\bin\Debug\DTO.pdb
+D:\Chuyên ngành Hệ Thống Thông Tin\Desktop\QLCT\BUS\bin\Debug\DTO.dll.config
+D:\Chuyên ngành Hệ Thống Thông Tin\Desktop\QLCT\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\Chuyên ngành Hệ Thống Thông Tin\Desktop\QLCT\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\Chuyên ngành Hệ Thống Thông Tin\Desktop\QLCT\BUS\obj\Debug\BUS.csproj.Up2Date
+D:\Chuyên ngành Hệ Thống Thông Tin\Desktop\QLCT\BUS\obj\Debug\BUS.dll
+D:\Chuyên ngành Hệ Thống Thông Tin\Desktop\QLCT\BUS\obj\Debug\BUS.pdb

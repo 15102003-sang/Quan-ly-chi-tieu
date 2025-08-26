@@ -1,0 +1,14 @@
+D:\Learning\des\Final_exam\QLCT\DTO\bin\Debug\DTO.dll.config
+D:\Learning\des\Final_exam\QLCT\DTO\bin\Debug\DTO.dll
+D:\Learning\des\Final_exam\QLCT\DTO\bin\Debug\DTO.pdb
+D:\Learning\des\Final_exam\QLCT\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\Learning\des\Final_exam\QLCT\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\Learning\des\Final_exam\QLCT\DTO\obj\Debug\DTO.dll
+D:\Learning\des\Final_exam\QLCT\DTO\obj\Debug\DTO.pdb
+D:\Chuyên ngành Hệ Thống Thông Tin\Desktop\QLCT\DTO\bin\Debug\DTO.dll.config
+D:\Chuyên ngành Hệ Thống Thông Tin\Desktop\QLCT\DTO\bin\Debug\DTO.dll
+D:\Chuyên ngành Hệ Thống Thông Tin\Desktop\QLCT\DTO\bin\Debug\DTO.pdb
+D:\Chuyên ngành Hệ Thống Thông Tin\Desktop\QLCT\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\Chuyên ngành Hệ Thống Thông Tin\Desktop\QLCT\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\Chuyên ngành Hệ Thống Thông Tin\Desktop\QLCT\DTO\obj\Debug\DTO.dll
+D:\Chuyên ngành Hệ Thống Thông Tin\Desktop\QLCT\DTO\obj\Debug\DTO.pdb

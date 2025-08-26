@@ -1,0 +1,20 @@
+D:\Learning\des\Final_exam\QLCT\DAO\bin\Debug\DAO.dll
+D:\Learning\des\Final_exam\QLCT\DAO\bin\Debug\DAO.pdb
+D:\Learning\des\Final_exam\QLCT\DAO\bin\Debug\DTO.dll
+D:\Learning\des\Final_exam\QLCT\DAO\bin\Debug\DTO.pdb
+D:\Learning\des\Final_exam\QLCT\DAO\bin\Debug\DTO.dll.config
+D:\Learning\des\Final_exam\QLCT\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+D:\Learning\des\Final_exam\QLCT\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+D:\Learning\des\Final_exam\QLCT\DAO\obj\Debug\DAO.csproj.CopyComplete
+D:\Learning\des\Final_exam\QLCT\DAO\obj\Debug\DAO.dll
+D:\Learning\des\Final_exam\QLCT\DAO\obj\Debug\DAO.pdb
+D:\Chuyên ngành Hệ Thống Thông Tin\Desktop\QLCT\DAO\bin\Debug\DAO.dll
+D:\Chuyên ngành Hệ Thống Thông Tin\Desktop\QLCT\DAO\bin\Debug\DAO.pdb
+D:\Chuyên ngành Hệ Thống Thông Tin\Desktop\QLCT\DAO\bin\Debug\DTO.dll
+D:\Chuyên ngành Hệ Thống Thông Tin\Desktop\QLCT\DAO\bin\Debug\DTO.pdb
+D:\Chuyên ngành Hệ Thống Thông Tin\Desktop\QLCT\DAO\bin\Debug\DTO.dll.config
+D:\Chuyên ngành Hệ Thống Thông Tin\Desktop\QLCT\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+D:\Chuyên ngành Hệ Thống Thông Tin\Desktop\QLCT\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+D:\Chuyên ngành Hệ Thống Thông Tin\Desktop\QLCT\DAO\obj\Debug\DAO.csproj.Up2Date
+D:\Chuyên ngành Hệ Thống Thông Tin\Desktop\QLCT\DAO\obj\Debug\DAO.dll
+D:\Chuyên ngành Hệ Thống Thông Tin\Desktop\QLCT\DAO\obj\Debug\DAO.pdb
