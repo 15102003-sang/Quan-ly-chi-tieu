@@ -1,1 +1,1 @@
-Quản lý chi tiêu là một hệ thống dùng để quản lý dòng tiền ra vào của chúng ta. Hệ thống được sử dụng mô hình 3 lớp DAO - DTO - BUS để dễ dàng quản lý và fix bug khi có lỗi xảy ra.
+Quản Lý Chi Tiêu – Giải pháp quản lý tài chính cá nhân thông minh, ứng dụng mô hình 3 lớp (DAO - DTO - BUS) giúp dễ dàng mở rộng, tối ưu hiệu suất và xử lý lỗi nhanh chóng.
